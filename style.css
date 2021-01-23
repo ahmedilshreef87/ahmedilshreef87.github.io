@@ -10,13 +10,13 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Roboto", sans-serif;
-  background-color: #b32745;
-  color: #345fb6;
+  background-color: #4d13ec;
+  color: #84b634;
 }
 
 h2,
 .white {
-  color: #fff;
+  color: rgb(20, 19, 19);
 }
 
 a {
@@ -77,7 +77,7 @@ a {
 }
 
 .section-1 a:hover {
-  color: #fff;
+  color: rgb(205, 238, 22);
   cursor: pointer;
   transition: 0.3s;
 }
